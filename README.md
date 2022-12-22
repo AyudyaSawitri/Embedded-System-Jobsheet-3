@@ -35,7 +35,8 @@ Buatlah program seperti script dibawah ini, kemudian upload program tersebut ke 
 Buka serial monitor, kemudian aktifkan mode koneksi Wi-Fi pada SmartPhone atau Laptop. Lakukan scan dan lihat daftar jaringan Wi-Fi yang tersedia. Dokumentasikan hasil keluarannya.
 
 
-Foto
+![Jobsheet3_D](https://user-images.githubusercontent.com/121160856/209066017-60f30599-bee1-4799-973b-76354a7785ff.jpeg)
+
 
 E. Mengirim Data Sensor ke Database
 
@@ -43,4 +44,6 @@ Buatlah script program seperti berikut ini.
 
 Upload program di atas. Kemudian buka serial monitor untuk mengetahui IP Address ESP32.  Akses IP Address ESP32 pada browser laptop
 
-Foto
+![Jobsheet3_E](https://user-images.githubusercontent.com/121160856/209066210-92a2f8b5-c71a-4ca0-b306-f1017ac967e0.jpeg)
+
+
