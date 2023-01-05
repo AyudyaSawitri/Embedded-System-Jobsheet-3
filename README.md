@@ -3,6 +3,8 @@ Ayudya Sawitri
 
 TE-3B/4.31.20.1.05
 
+TOPOLOGI JARINGAN LOKAL DAN WIFI
+
 A. ESP32 Wi-Fi Modes dan Wifi-Scan
 
 Buka Arduino IDE dan upload script program berikut ke ESP32 untuk melakukan scan jaringan Wi-Fi.
